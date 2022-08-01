@@ -24,7 +24,7 @@
 */
 // $config['base_url'] = 'http://192.168.1.28/meal_booking/';
 //$config['base_url'] = 'https://orderfresh365.lt.empiricaledge.com/';
-$config['base_url'] = 'http://localhost/orderfresh365/';
+$config['base_url'] = 'http://localhost/dev-orderfresh365/';
 
 /*
 |--------------------------------------------------------------------------

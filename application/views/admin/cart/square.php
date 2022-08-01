@@ -199,7 +199,7 @@ var paymentForm = new SqPaymentForm({
 	
 	const card = await payments.card();
 	
-	await card.attach('#card');
+	await card.attach('#form-container');
 	
 	const tokenResult = await card.tokenize();
 	if (tokenResult.status === 'OK') {
