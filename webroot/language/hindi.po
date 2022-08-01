@@ -1,0 +1,164 @@
+msgid "Hindi"
+msgstr "हिंदी" 
+
+msgid "Home"
+msgstr "होम"
+
+msgid "Director's Message"
+msgstr "निर्देशक का संदेश"
+
+msgid "CSIR - Institute of Minerals and Materials Technology"
+msgstr "सीएसआईआर - खनिज और सामग्री प्रौद्योगिकी संस्थान"
+
+msgid "Council of Scientific and Industrial Research (CSIR)"
+msgstr "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सीएसआईआर)"
+
+msgid "Ministry of Science and Technology, Govt.of India"
+msgstr "विज्ञान और प्रौद्योगिकी मंत्रालय, भारत सरकार"
+
+msgid "Read More"
+msgstr "और पढो"
+
+msgid "Announcement"
+msgstr "घोषणा"
+
+msgid "View All"
+msgstr "सभी को देखें"
+
+msgid "Events"
+msgstr "आयोजन"
+
+msgid "Current News"
+msgstr "वर्तमान समाचार"
+
+msgid "at a Glance"
+msgstr "एक नज़र में"
+
+msgid "Annual Report"
+msgstr "वार्षिक विवरण"
+
+msgid "One CSIR"
+msgstr "एक सी.एस.आई.आर."
+
+msgid "Center of Excellence"
+msgstr "उत्कृष्टता का केंद्र"
+
+msgid "Industrial Partner"
+msgstr "औद्योगिक साझेदार"
+
+msgid "Directory"
+msgstr "निर्देशिका"
+
+msgid "Guest House"
+msgstr "अतिथि गृह"
+
+msgid "Staff Club"
+msgstr "स्टाफ क्लब"
+
+msgid "Reasearch & Highlights"
+msgstr "खोज और हाइलाइट्स"
+
+msgid "Facebook"
+msgstr "फेसबुक"
+
+msgid "Twitter"
+msgstr "ट्विटर"
+
+msgid "Tweets by csirimmt"
+msgstr "Csirimmt द्वारा ट्वीट"
+
+msgid "Sub heading"
+msgstr "उप शीर्षक"
+
+msgid "Tender"
+msgstr "निविदा"
+
+msgid "Open Tender"
+msgstr "खुला प्रस्ताव"
+
+msgid "Limited Tender"
+msgstr "सीमित निविदा"
+
+msgid "Purchase Order"
+msgstr "क्रय आदेश"
+
+msgid "Screen Readers Access"
+msgstr "स्क्रीन रीडर्स एक्सेस"
+
+msgid "Following table lists the information about different screen readers"
+msgstr "निम्नलिखित तालिका विभिन्न स्क्रीन पाठकों के बारे में जानकारी सूचीबद्ध करती है"
+
+msgid "Information related to the various screen readers"
+msgstr "विभिन्न स्क्रीन पाठकों से संबंधित जानकारी"
+
+msgid "About IMMT"
+msgstr "IMMT के बारे में"
+
+msgid "Quick Links"
+msgstr "त्वरित सम्पक"
+
+msgid "Other Links"
+msgstr "अन्य लिंक"
+
+msgid "Address"
+msgstr "पता"
+
+msgid "All Right Reserved"
+msgstr "सर्वाधिकार सुरक्षित"
+
+msgid "Today's Hindi word"
+msgstr "आज का हिंदी शब्द"
+
+msgid "Jobs"
+msgstr "नौकरियां"
+
+msgid "More"
+msgstr "अधिक"
+
+msgid "CSIR IMMT Annual Reports"
+msgstr "सीएसआईआर आई एम एम टी की वार्षिक रिपोर्ट"
+
+msgid "Jobs @ CSIR IMMT"
+msgstr "नौकरियां @ सीएसआईआर आई एम एम टी"
+
+msgid "Sitemap of IMMT"
+msgstr "आई एम एम टी का साइटमैप"
+
+msgid "Active Open Tender"
+msgstr "सक्रिय खुला निविदा"
+
+msgid "Archived Open Tender"
+msgstr "आर्काइव्ड ओपन टेंडर"
+
+msgid "S No."
+msgstr "एस नं"
+
+msgid "Tender No."
+msgstr "निविदा संख्या"
+
+msgid "Tender Name"
+msgstr "निविदा नाम"
+
+msgid "Tender Description"
+msgstr "निविदा विवरण"
+
+msgid "Bid Closing Date"
+msgstr "बोली समापन तिथि"
+
+msgid "Download"
+msgstr "डाउनलोड"
+
+msgid "Corrigendum"
+msgstr "शुद्धिपत्र"
+
+msgid "Active Limited Tender"
+msgstr "एक्टिव लिमिटेड टेंडर"
+
+msgid "Archived Limited Tender"
+msgstr "आर्काइव्ड लिमिटेड टेंडर"
+
+msgid "Active Purchase Order"
+msgstr "सक्रिय खरीद आदेश"
+
+msgid "Archived Purchase Order"
+msgstr "संग्रहित खरीद आदेश"

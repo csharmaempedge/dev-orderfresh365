@@ -1,0 +1,6 @@
+{
+    "require": {
+        "clicksend/clicksend-php": "^5.0",
+        "square/square": "19.1.1.20220616"
+    }
+}
